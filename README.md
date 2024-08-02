@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ratmaster00
 - 👀 I’m interested in HTML and electronics
 - 🌱 I’m currently learning using Arch BTW
-- 💞️ I’m NOT looking to collaborate on anything
+- 💞️ I’m NOT looking to collaborate on anything, but maybe...
 - 📫 How to reach me: regeditexe43@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My currency converter was written by AI. 
