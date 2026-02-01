@@ -4,7 +4,6 @@
 - 💞️ I’m NOT looking to collaborate on anything, but maybe...
 - 📫 How to reach me: idk lol
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My currency converter was written by AI. 
 
 <!---
 ratmaster00/ratmaster00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
